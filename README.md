@@ -93,8 +93,6 @@ I enjoy sharing knowledge, writing articles about coding, and building projects 
   <a href="https://your-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Visitors-rashedul25389-blue?style=for-the-badge" alt="Visitors Badge"/>
   </a>
-  <br/>
-  <sub>Click the badge to see full stats</sub>
 </p>
 
 
