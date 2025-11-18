@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/9k472thJ/Chat-GPT-Image-Nov-19-2025-12-06-42-AM.png" alt="Banner" width="100%" height="400" />
+</p>
+
 # 💫 About Me:
 Hi there! I'm Md. Rashedul Islam. I'm a passionate Software Developer with a strong focus on Full Stack Development. I enjoy sharing my knowledge about teaching. If you'd like to learn more about what I do, you can follow me. Outside of coding, I enjoy Articles.
 
