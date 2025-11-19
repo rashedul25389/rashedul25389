@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/JfJNvDf/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/JfJNvDf/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.jpg" alt="Banner" width="100%" />
 </p>
+
 
 # 💫 About Me
 Hi there! I'm **Md. Rashedul Islam**, a passionate **Full Stack Developer**.  
