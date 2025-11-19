@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/twZfvX61/Chat-GPT-Image-Nov-19-2025-12-06-42-AM.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/1C9VcmL/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.png" alt="Banner" width="100%" />
 </p>
 
 # 💫 About Me
